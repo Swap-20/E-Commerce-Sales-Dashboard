@@ -54,10 +54,8 @@ This project involves analyzing two datasets: **Details.csv** and **Orders.csv**
 ---
 
 ## Tools and Libraries
-- **Python** (for data manipulation and analysis)
-- **Pandas** (data wrangling)
-- **Matplotlib/Seaborn** (data visualization)
-- **Power BI/Tableau** (optional for advanced visualization)
+- **Excel** (for data manipulation and analysis)
+- **Power BI/Tableau** (advanced visualization)
 
 ---
 
@@ -77,8 +75,3 @@ This project involves analyzing two datasets: **Details.csv** and **Orders.csv**
 - Recommendations for business improvements based on findings.
 
 ---
-
-## Contact
-For any questions or clarifications, please contact Swap at [LinkedIn](#) or via email.
-
-
